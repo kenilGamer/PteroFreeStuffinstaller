@@ -2,9 +2,9 @@
     "autoPlay": true,
     "background": {
         "color": {
-            "value": "#000000"
+            "value": "001011"
         },
-        "image": "",
+        "image": "https://media.discordapp.net/attachments/1084447890543493218/1126469387977760798/minecraft-ray-tracing.jpg",
         "position": "",
         "repeat": "",
         "size": "",
